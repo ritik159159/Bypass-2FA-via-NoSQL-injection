@@ -1,0 +1,118 @@
+How Crypto Network is Operating
+How SomeOne Can Become a Miner 
+
+How we can List our Token , What are the pre and post condition 
+What about Database 
+
+If No One have Individual Control , Then How Network is Up to date with Security Measures
+Can Someone Manipulate the Crypto Market Through Bots 
+
+In India Where we can do shopping through Token 
+What are the maximum Length of the Token value 
+
+What are the Rate & Type of Scams in the field of cryptocurrency 
+How Data are managing ?
+
+Why Their is No Lag in Performance 
+The cryptocurrency market operates 24 hours a day, 7 days a week, without any breaks for weekends or holidays ?
+
+Can We Create Blockchain Architecture
+
+---------Transparency( Immutable Records, Consensus Mechanism, Anyone Can Access , token-for-token exchanges)---------------------------------
+
+Miners : computational power to solve complex mathematical problems , maintaining the integrity and security , 
+	   validates transactions and adds them to a blockchain , process known as Proof-of-Work (PoW) , Approximately every 10 minutes
+	   difficulty increases and block rewards decrease over time, mining can become less advantageous.
+
+BlockChain : distributed database of records of all transactions , a list of transactions that anyone can view and verify. 
+		 node is a computer connected to the Blockchain Network. 
+		 When a computer connects to the Blockchain, a copy of the Blockchain data gets 
+		 downloaded into the system and the node comes in sync with the latest block of data on Blockchain.
+		 without the approval of a majority of nodes no one can add any transaction blocks to the ledger
+
+Decentralized Finance (DeFi): Using blockchain technology, decentralized financial systems.
+
+Chronological : (Chronological means every transaction happens after the previous one) and immutable way
+
+				Feature of BlockChain 
+Immutable
+Distributed : All network participants have a copy of the ledger for complete transparency
+Decentralized : no central authority controlling the network.
+Secure : 
+Transparency : 
+
+-----------------------------------------------Crypto Vs Stocks-----------------------------------------
+
+What is a stock?
+The value of a stock can move according to the company’s performance and other factors such as relevant news announcements. 
+
+What is cryptocurrency? 
+
+How the Price of Stocks Manage ?
+
+NFT (Non-Fungible Token):
+Definition: NFTs are unique blockchain tokens that represent ownership of digital assets, such as art,
+
+Binance is the world's biggest bitcoin exchange and altcoin crypto exchange by volume. 
+[ Coinbase , Bitfinex , Huobi , Kraken ]
+
+---------------------------------------------------------------------------------------
+Staging Environment : https://exchange-staging-v3.lcx.com/
+
+https://wise.com/gb/iban/germany
+
+European COunteries
+
+-----------------------------------------Currency Code ---------------------------------------------
+CHF : Swiss Franc, the currency used in Switzerland.  1 CHF = 90.30
+USD for United States Dollar 1USD = 83.39
+EUR for Euro 1 EUR = 85.50 INR,
+
+340007237
+
+International Numbering System 
+
+What are platform through which we can create our own cryptocurrency 
+What is Base Coin and Forth Coin 
+What is Transfer in crypto currency 
+Banned Exchange In India ( One Exchange through Another Exchange or one wallet through Another wallet )
+
+Type of Wallet In CryptoCurrency 
+Stable Token 
+European Parliament Regulation For Crypto Trading
+Transfer Fund Concept ( From Main Account to Exchange Account or onr exchange to another Exchange ) 
+How to create NFT 
+How to sell NFT
+How NFT Works or its future
+How to analyze graph
+Royalty
+How to create and Sell NFT
+Chart Reading 
+
+
+
+
+Minimum Bid Value == latest Price / 2
+Main Balance >< Exchange Balance 
+Minimum Quantity 10 
+
+
+console.log(cookie)
+
+--------------------------------------GoLang & MERN STACK ------------------------------------------
+KJJFAMZEMFXEURBKFRAW43CJFQ2XI2J4JFAWIYJ6F5TVGJB2
+
+
+----------------------------------------------------------------------------------------------------
+Page is Accessible without Login - https://exchange.lcx.com/token-sale/participated
+
+Script is Executable Here - https://exchange-staging-v3.lcx.com/trade/LCX-EUR { Custom Error Message is Missing }
+
+User are able to access the page , if the KYC haven't done - https://exchange.lcx.com/earn/invest/4
+
+If user are not login - /token-sale/completed/47
+
+after user login - https://exchange.lcx.com/token-sale/upcoming/41 (same for all token points){ Custom Error Message is Missing }
+
+https://exchange.lcx.com/token-sale/ongoing/7 { we can access completed token sales through id in remaining section }
+
